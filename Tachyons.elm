@@ -21,6 +21,7 @@ This will:
 There's even responsive versions. Like `p1_ns` that will only add padding
 to anything that is "not small" (larger than mobile). This style allows you to easily create responsive mobile interfaces.
 
+The sole transformation rule to go from raw Tachyons to Elm is that dash maps to underscore.
 
 # Working example
 
